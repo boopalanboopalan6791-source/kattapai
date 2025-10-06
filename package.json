@@ -1,0 +1,21 @@
+{
+  "name": "katta-pai-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "firebase-admin": "^11.10.0",
+    "firebase": "^10.16.0",
+    "sass": "^1.66.0",
+    "axios": "^1.4.0",
+    "cookie": "^0.5.0",
+    "razorpay": "^2.10.0"
+  }
+}
